@@ -6,8 +6,12 @@ The project was accomplished by delivering 2 sub-projects. Part 1 deploys a neur
 
 Skills & Tools Covered
 
-Electronics and Telecommunication
-Neural Networks
-Deep Learning
-TensorFlow
+Electronics and Telecommunication,
+
+Neural Networks,
+
+Deep Learning,
+
+TensorFlow,
+
 Image Recognition
